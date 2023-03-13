@@ -1,0 +1,114 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+
+/* Header */
+
+
+
+.box-header-sup{
+    min-height: 70px;
+    background-color:;
+}
+
+
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 70px;
+}
+
+
+.flex-container img {
+    height: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    
+}
+
+.flex-container a{
+    margin-right: 10px;
+    text-decoration: none;
+    color: grey;
+}
+
+
+.flex-container button{
+    height: 25px;
+    width: 45px;
+    background-color: #0061ff;
+    color: white;
+    border: none;
+    margin-right: 10px;
+}
+
+
+.box-header-inf{
+    max-height: 425px;
+    background-color: #b4d0e7;
+}
+
+.flex-container-2{
+    max-width: 700px;
+    min-height: 160px;
+    display: flex;
+    margin: auto;
+    padding-top: 30px;
+    font-size: 25px;
+    
+}
+
+
+.flex-container-3{
+    display: flex;
+    min-height: 315px;
+    justify-content: center;
+   
+}
+
+
+
+
+.box-1{
+    width: 250px;
+    
+    padding-top: 38px;
+}
+
+.box-2{
+    width: 450px;
+    
+}
+
+
+.flex-container-3 button{
+    height: 25px;
+    width: 180px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color:#0061ff;
+    color: white;
+    border: none;
+}
+
+
+.box-2 img{
+    height: 258px;
+    margin-top: 38px;
+}
+
+
+
+/* Fine Header */
+
+
+
+
