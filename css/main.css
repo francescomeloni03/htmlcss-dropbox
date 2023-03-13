@@ -59,7 +59,6 @@
 .flex-container-2{
     max-width: 700px;
     min-height: 160px;
-    display: flex;
     margin: auto;
     padding-top: 30px;
     font-size: 25px;
@@ -112,3 +111,84 @@
 
 
 
+
+
+/* Main */
+
+
+
+
+.box-main{
+    max-width: 600px;
+    min-height: 1000px;
+    margin: auto;
+    
+    margin-top: 70px;
+
+   
+}
+
+
+
+form{
+    padding-top: 50px;
+}
+
+.boxed-1{
+    width: 180px;
+    height: 30px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.boxed-1-inf{
+    width: 180px;
+    min-height: 650px;
+    border: 1px solid black;
+    border-top: none;
+    padding-left: 20px;
+    padding-top: 25px;
+
+}
+
+
+
+.colonna1{
+    width: 180px;
+    padding-top: 30px;
+    
+    
+}
+
+
+
+.flex-container-4{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.sizefont{
+    font-size: 11px;
+}
+
+.testo-a-capo{
+    padding-left: 20px;
+}
+
+
+.boxed-1-inf button{
+    width: 140px;
+    height: 30px;
+    color: white;
+    border: none;
+    background-color: #0061ff;
+
+}
+
+
+.boxed-1-inf hr{
+    width: 30px;
+}
