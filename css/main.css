@@ -48,6 +48,7 @@
     color: white;
     border: none;
     margin-right: 10px;
+    cursor: pointer;
 }
 
 
@@ -96,6 +97,7 @@
     background-color:#0061ff;
     color: white;
     border: none;
+    cursor: pointer;
 }
 
 
@@ -184,6 +186,7 @@ form{
     color: white;
     border: none;
     background-color: #0061ff;
+    cursor: pointer;
 
 }
 
@@ -202,7 +205,7 @@ form{
 
 .rectangle{
     width: 700px;
-    height: 180px;
+    height: 220px;
     margin-top: 50px;
 }
 
@@ -237,6 +240,7 @@ form{
     background-color: #0061ff;
     color: white;
     width: 185px;
+    cursor: pointer;
 }
 
 
@@ -249,4 +253,43 @@ form{
 .color-check{
     color: #0061ff;
 
+}
+
+
+
+
+.flex-container-6{
+    display: flex;
+}
+
+
+.box-left{
+    width: 400px;
+    height: 400px;
+    margin-top: 50px;
+}
+
+
+
+.box-right{
+    width: 300px;
+    height: 400px;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+
+
+
+.box-left img{
+    height: 340px;
+}
+
+
+.box-right button{
+    width: 130px;
+    height: 30px;
+    border: 1px solid;
+    background-color: white;
+    cursor: pointer;
 }
